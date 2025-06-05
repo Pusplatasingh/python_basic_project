@@ -1,6 +1,8 @@
 # 📚 Python Basic Projects
 A collection of beginner-friendly Python scripts. Click on a project to explore:
-1. Student Marks Management ([./student_marks.py])
+
+1. [📘 Student Marks Management](./student_marks.py)
+
     - Adding student name and marks (Function: add_student)
 
         - Takes user input for name and marks.
@@ -23,7 +25,7 @@ A collection of beginner-friendly Python scripts. Click on a project to explore:
 
         - Allows updating the name and/or marks.
 
-    -Main menu and program control (Main loop)
+    - Main menu and program control (Main loop)
 
         - Shows menu options repeatedly.
 
